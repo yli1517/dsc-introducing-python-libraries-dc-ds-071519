@@ -150,7 +150,7 @@ Keras is an open-source library for building Neural Networks with a high-level o
 
 <img src="images/keras.jpg" width="320">
 
-Keras is really eased to get started with and for quick prototyping. It is highly modular and extendible. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we shall introduce you to Keras to help you deep dive into deep neural networks.
+Keras is really easy to get started with and, for quick prototyping, it is highly modular and extensible. Notwithstanding its ease, simplicity, and high-level orientation, Keras is still deep and powerful enough for serious modeling. In the deep learning section of our course, we shall introduce you to Keras to help you deep dive into deep neural networks.
 
 ## Summary 
 
